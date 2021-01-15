@@ -4,7 +4,7 @@ Within this repository you will find the files used to configure the cloud netwo
 
 Below is a visual overview of the network 
 
-(Diagrams/HW12 Mizer.png)
+![TODO: Update the path with the name of your diagram](Diagrams/HW12Mizer.png)
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the file may be used to install only certain pieces of it, such as Filebeat.
 
@@ -54,14 +54,16 @@ Install Docker python module
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
 
-(Images/sudodockerpselk761.PNG)
+![TODO: Update - docker ps](Images/sudodockerpselk761.PNG)
 
 ### Target Machines & Beats
 This ELK server is configured to monitor the following machines:
 
-Webserver 1 10.0.0.10
+Webserver 1 10.0.0.8
 
-Webserver 2 10.0.0.11
+Webserver 2 10.0.0.6
+
+Webserver 3 10.0.0.11
 
 We have installed Metricbeat and filebeat these machines:
 

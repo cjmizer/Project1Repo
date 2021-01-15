@@ -4,7 +4,7 @@ Within this repository you will find the files used to configure the cloud netwo
 
 Below is a visual overview of the network 
 
-![TODO: Update the path with the name of your diagram](Diagrams/HW12Mizer.png)
+![TODO: jesus christ finally](Diagrams/HW12Mizer.PNG)
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the file may be used to install only certain pieces of it, such as Filebeat.
 

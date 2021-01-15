@@ -4,7 +4,7 @@ Within this repository you will find the files used to configure the cloud netwo
 
 Below is a visual overview of the network 
 
-[Network Topology](diagrams/HW12 Mizer.png)
+![](diagrams/HW12 Mizer.png)
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the file may be used to install only certain pieces of it, such as Filebeat.
 
@@ -54,7 +54,7 @@ Install Docker python module
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
 
-[elk761](Images/sudodockerpselk761.PNG)
+![](Images/sudodockerpselk761.PNG)
 
 ### Target Machines & Beats
 This ELK server is configured to monitor the following machines:
@@ -96,4 +96,4 @@ Elk
 
 10.1.0.4 ansible_python_interpreter=/usr/bin/python3
 
-# note: a large portion of this readme was copy/pasted and edited to fit my project. 
+###### note: a large portion of this readme was copy/pasted and edited to fit my project. 
